@@ -1,2 +1,2 @@
 # project-volterra
-Something ambitious.
+Evaluating the autonomy–reliability tradeoff in AI-driven smart-home systems.
