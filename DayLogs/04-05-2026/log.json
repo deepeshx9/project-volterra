@@ -1,0 +1,16 @@
+{
+  "project": "AI smart home autonomy testbed",
+  "date": "DD/MM/YYYY is 04/05/2026"
+  "research_question": "Effect of autonomy on reliability and user intervention",
+  "hypothesis": "Moderate autonomy improves efficiency; high autonomy increases errors",
+  "system": {
+    "perception": "vision + sensors",
+    "reasoning": "rule-based + AI",
+    "action": "home automation control",
+    "compute": "hybrid edge-central"
+  },
+  "experiment": {
+    "autonomy_levels": ["low", "medium", "high"],
+    "metrics": ["success_rate", "user_overrides", "error_rate"]
+  }
+}
