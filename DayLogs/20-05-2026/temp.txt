@@ -5,6 +5,8 @@ Prior qualitative work identified autonomy–agency tension as a central challen
 
 The referenced work studies how practitioners socially and ethically manage expectations around smart-home AI, whereas my work experimentally evaluates how varying operational autonomy levels affect reliability, intervention behavior, and system performance in smart-home environments.
 
+We operationalize the EM-stage framework proposed qualitatively in prior work into measurable behavioral variables within an autonomous smart-home environment.
+
 Bounds:
 	environment state
 	device state
