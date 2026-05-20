@@ -1,0 +1,138 @@
+{
+  "project": "AI-driven smart-home autonomy evaluation framework",
+  "date": "20/05/2026",
+
+  "focus": "Formalizing autonomy architecture and research positioning",
+
+  "research_positioning": {
+    "existing_work": [
+      "expectation_management",
+      "ethics",
+      "trust_calibration",
+      "practitioner_interpretation"
+    ],
+
+    "current_work": [
+      "operational_autonomy",
+      "intervention_behavior",
+      "reliability",
+      "bounded_execution",
+      "measurable_autonomy_effects"
+    ]
+  },
+
+  "bounds": [
+    "environment_state",
+    "device_state",
+    "autonomy_configuration",
+    "network_condition",
+    "user_scenario",
+    "intervention_rule",
+    "expected_outcome",
+    "observed_outcome",
+    "anomaly_classification"
+  ],
+
+  "constraint": "performing actual evaluation_over_feature_expansion",
+
+  "autonomy_architecture": {
+    "low": {
+      "model": "explicit_rules",
+      "flow": "fixed",
+      "predictability": "high"
+    },
+
+    "medium": {
+      "model": "heuristic_arbitration",
+      "flow": "semi_dynamic",
+      "predictability": "moderate"
+    },
+
+    "high": {
+      "model": "real_time_inference_planning",
+      "flow": "emergent",
+      "predictability": "variable"
+    }
+  },
+
+  "expanded_dimensions": {
+    "initiative": {
+      "low": "reactive",
+      "medium": "context_triggered",
+      "high": "self_directed"
+    },
+
+    "planning_depth": {
+      "low": "single_step",
+      "medium": "multi_factor",
+      "high": "multi_stage"
+    },
+
+    "state_awareness": {
+      "low": "local",
+      "medium": "contextual",
+      "high": "persistent"
+    },
+
+    "user_confirmation": {
+      "low": "frequent",
+      "medium": "conditional",
+      "high": "sparse"
+    },
+
+    "policy_interpretation": {
+      "low": "literal",
+      "medium": "weighted",
+      "high": "abstract"
+    },
+
+    "adaptation": {
+      "low": "none",
+      "medium": "limited",
+      "high": "continuous"
+    },
+
+    "execution_flexibility": {
+      "low": "fixed",
+      "medium": "semi_variable",
+      "high": "emergent"
+    }
+  },
+
+  "system_layers": {
+    "governance": [
+      "policies",
+      "bounds",
+      "safety_rails"
+    ],
+
+    "decision": [
+      "deterministic_execution",
+      "heuristic_arbitration",
+      "agentic_execution"
+    ],
+
+    "observability": [
+      "telemetry",
+      "intervention_tracking",
+      "rollback_lineage",
+      "execution_tracing"
+    ]
+  },
+
+  "emerging_direction": [
+    "bounded_emergence",
+    "calibrated_autonomy",
+    "execution_entropy",
+    "intervention_elasticity",
+    "policy_constrained_autonomy"
+  ],
+
+  "future_direction": [
+    "dynamic_autonomy_adaptation",
+    "uncertainty_response",
+    "reliability_sensitive_autonomy",
+    "environment_aware_adjustment"
+  ]
+
+}
