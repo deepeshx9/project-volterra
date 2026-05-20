@@ -1,0 +1,40 @@
+an empirical operationalization of autonomy calibration in smart-home AI.
+
+
+Prior qualitative work identified autonomy–agency tension as a central challenge in smart-home AI expectations management, but lacked quantitative evaluation of how varying autonomy levels affect reliability, intervention frequency, and operational safety.
+
+The referenced work studies how practitioners socially and ethically manage expectations around smart-home AI, whereas my work experimentally evaluates how varying operational autonomy levels affect reliability, intervention behavior, and system performance in smart-home environments.
+
+Bounds:
+	environment state
+	device state
+	autonomy configuration
+	network condition
+	user scenario
+	intervention rule
+	expected outcome
+	observed outcome
+	anomaly classification
+
+
+Architecture:
+	Level	Decision Model	Flow Type	Predictability
+	Low	Explicit rules	Fixed	High
+	Medium	Heuristic arbitration	Semi-dynamic	Moderate
+	High	Real-time inference/planning	Emergent	Variable
+
+Expanded Architecture:
+	Dimension	Low	Medium	High
+	Initiative	Reactive	Context-triggered	Self-directed
+	Planning depth	Single-step	Multi-factor	Multi-stage
+	State awareness	Local	Contextual	Persistent/world-model
+	User confirmation	Frequent	Conditional	Sparse
+	Policy interpretation	Literal	Weighted	Abstract
+	Adaptation	None	Limited	Continuous
+	Execution flexibility	Fixed	Semi-variable	Emergent
+
+Layers:
+	Layer	Role
+	Governance layer	policies, bounds, safety rails
+	Decision layer	deterministic / heuristic / agentic autonomy
+	Observability layer	telemetry, intervention tracking, rollback lineage
