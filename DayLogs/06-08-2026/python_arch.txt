@@ -1,0 +1,58 @@
+research_harness/
+│
+├── config/
+│   ├── experiment.yaml
+│   ├── devices.yaml
+│   ├── metrics.yaml
+│   └── scenarios/
+│       ├── leave_home.yaml
+│       ├── smoke_alarm.yaml
+│       ├── sensor_failure.yaml
+│       └── ...
+│
+├── harness/
+│   ├── runner.py
+│   ├── scheduler.py
+│   ├── experiment.py
+│   ├── telemetry.py
+│   ├── metrics.py
+│   ├── logger.py
+│   ├── statistics.py
+│   └── replay.py
+│
+├── environment/
+│   ├── world.py
+│   ├── room.py
+│   ├── sensors.py
+│   ├── devices.py
+│   ├── occupants.py
+│   └── network.py
+│
+├── autonomy/
+│   ├── base.py
+│   ├── rule_engine.py
+│   ├── heuristic.py
+│   ├── llm_agent.py
+│   └── planner.py
+│
+├── governance/
+│   ├── policy.py
+│   ├── constraints.py
+│   ├── safety.py
+│   └── rollback.py
+│
+├── observability/
+│   ├── events.py
+│   ├── tracing.py
+│   ├── interventions.py
+│   └── execution_log.py
+│
+├── analysis/
+│   ├── aggregate.py
+│   ├── plots.py
+│   ├── anova.py
+│   └── report.py
+│
+├── outputs/
+│
+└── main.py
